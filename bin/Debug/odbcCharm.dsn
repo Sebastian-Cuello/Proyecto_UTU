@@ -1,0 +1,10 @@
+[ODBC]
+DRIVER=IBM INFORMIX ODBC DRIVER (64-bit)
+UID=charm
+DLOC=en_US.819
+CLOC=en_US.CP1252
+PRO=onsoctcp
+SERV=1526
+SRVR=ol_informix1
+HOST=10.0.29.6
+DATABASE=charm_project

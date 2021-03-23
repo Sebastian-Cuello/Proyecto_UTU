@@ -1,0 +1,101 @@
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.exe.config
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.exe.manifest
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.application
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.exe
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.pdb
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.xml
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaConfig.resources
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaInvitado.resources
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaMecanico.resources
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.VentanaRecepcion.resources
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaAdmin.resources
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.LoginSU.resources
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.Resources.resources
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.exe.manifest
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.application
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.exe
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.xml
+D:\CCM 21-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.pdb
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.exe.config
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.exe
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.xml
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.pdb
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.exe.manifest
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.application
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.exe
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.pdb
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.xml
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar2.dll
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.Instrumentation.dll
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.SuperGrid.Design.dll
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.TreeGX.dll
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar2.xml
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.Instrumentation.xml
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaConfig.resources
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaInvitado.resources
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaMecanico.resources
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.VentanaRecepcion.resources
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaAdmin.resources
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.LoginSU.resources
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.Resources.resources
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.exe.manifest
+C:\Users\xEra9\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.application
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.exe.config
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.exe
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.xml
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.pdb
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.exe.manifest
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.application
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.exe
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.pdb
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.xml
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar2.xml
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.Instrumentation.xml
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaConfig.resources
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaInvitado.resources
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaMecanico.resources
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.VentanaRecepcion.resources
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaAdmin.resources
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.LoginSU.resources
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.Resources.resources
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.exe.manifest
+C:\Users\joel\Desktop\Versiones ccm\CCM 26-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.application
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.exe.config
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.exe
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.xml
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.pdb
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.exe.manifest
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.application
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.exe
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.pdb
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\WindowsApplication1.xml
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.DotNetBar2.xml
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\bin\x64\Debug\DevComponents.Instrumentation.xml
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaConfig.resources
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaInvitado.resources
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaMecanico.resources
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.VentanaRecepcion.resources
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.ventanaAdmin.resources
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.LoginSU.resources
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.exe.manifest
+C:\Users\admin\Desktop\CCM 28-9\CCMv0.13 BD v1\CCMv0.13 BD v1\WindowsApplication1\WindowsApplication1\obj\x64\Debug\WindowsApplication1.application
