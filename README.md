@@ -4,7 +4,7 @@ Proyecto Final UTU
 
 Lenguaje de programación usado VISUAL BASIC
 
-# Tareas realizadas por mi #
+Tareas realizadas por mi 
 Modelado, Diseño e implementación de la base de datos
 Creación del documento de analisis de requerimiento
 Ayuda en general a los compañeros de equipo en programación, creación de la red, creación de usuarios
